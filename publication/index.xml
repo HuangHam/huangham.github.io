@@ -5,7 +5,7 @@
     <link>https://HuangHam.github.io/publication/</link>
       <atom:link href="https://HuangHam.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://HuangHam.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>A computational model of lexical false memory based on semantic distance from word embeddings</title>
-      <link>https://HuangHam.github.io/publication/tcc/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://HuangHam.github.io/publication/tcc/</guid>
+      <title>When uncertainty in social contexts increases exploration and decreases obtained rewards</title>
+      <link>https://HuangHam.github.io/publication/exex/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://HuangHam.github.io/publication/exex/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,10 +40,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>When uncertainty in social contexts increases exploration and decreases obtained rewards (In Press)</title>
-      <link>https://HuangHam.github.io/publication/exex/</link>
+      <title>A computational model of lexical false memory based on semantic distance from word embeddings</title>
+      <link>https://HuangHam.github.io/publication/tcc/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://HuangHam.github.io/publication/exex/</guid>
+      <guid>https://HuangHam.github.io/publication/tcc/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
