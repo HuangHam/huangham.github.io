@@ -2,8 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HuangHam.github.io/talk/poster-at-ccn-2026/</loc>
+    <lastmod>2026-08-06T13:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://HuangHam.github.io/event/</loc>
-    <lastmod>2026-08-02T12:30:00+00:00</lastmod>
+    <lastmod>2026-08-06T13:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://HuangHam.github.io/talk/talk-at-metacognitive-science-meeting-2026/</loc>
